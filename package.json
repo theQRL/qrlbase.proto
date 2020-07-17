@@ -1,5 +1,5 @@
 {
-  "name": "qrlbase.proto",
+  "name": "@theqrl/qrlbase.proto",
   "version": "1.0.0",
   "description": "base proto3 file for QRL",
   "main": "index.js",
